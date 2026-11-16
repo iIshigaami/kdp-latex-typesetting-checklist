@@ -1,0 +1,21 @@
+% Minimal two-sided preamble for a KDP paperback interior.
+% Original example written for the kdp-latex-typesetting-checklist repo.
+% Set the trim size to YOUR chosen KDP trim; these values are 5.06 x 7.81 in.
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{geometry}
+\geometry{
+  paperwidth=129mm,
+  paperheight=198mm,
+  inner=23mm,      % must scale with final page count -- see README table
+  outer=19mm,
+  top=18mm,
+  bottom=20mm,
+  footskip=11mm
+}
+\usepackage{emptypage}
+\setlength{\parindent}{1.5em}
+\setlength{\parskip}{0pt}
+\clubpenalty=10000
+\widowpenalty=10000
