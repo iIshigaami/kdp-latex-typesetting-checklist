@@ -23,7 +23,7 @@ This is not a sales page. It is a working checklist you can actually follow, plu
 
 ## Lock these decisions before you typeset
 
-Almost every KDP rejection I have seen traces back to a decision that was made *after* layout was finished. Decide these first:
+Most avoidable KDP preflight problems trace back to a decision that was made *after* layout was finished. Decide these first:
 
 1. **Trim size.** Common trade sizes are 5.5 × 8.25 in (13.97 × 20.96 cm) and 6 × 9 in (15.24 × 22.86 cm). Your interior PDF page size must match the trim size you select in KDP exactly.
 2. **Ink and paper.** Black-and-white cream is the standard choice for prose; white is common for workbooks and technical titles. Paper choice changes the spine width, so it affects the cover file too.
